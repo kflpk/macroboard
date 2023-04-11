@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "Logo")(type "KiCad")(uri "${KIPRJMOD}/logo.pretty")(options "")(descr ""))
+  (lib (name "USB4085")(type "KiCad")(uri "${KIPRJMOD}/libs/USB4085-GF-A_REVA4")(options "")(descr ""))
+  (lib (name "USB4800")(type "KiCad")(uri "${KIPRJMOD}/libs/USB4800-03-A_REVA")(options "")(descr ""))
+  (lib (name "LED_RGB")(type "KiCad")(uri "${KIPRJMOD}/libs/LED_RGB")(options "")(descr ""))
+)
