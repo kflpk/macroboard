@@ -6057,7 +6057,7 @@
   )
 
   (gr_rect (start 16.51 40.64) (end 110.49 161.29) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp 78f635f9-9435-4e04-acad-1bc037112405))
-  (gr_text "Macroboard v1.0" (at 90.424 155.448) (layer "F.SilkS") (tstamp 0a7e70d2-f078-4fa8-b532-e6c8c7f0945d)
+  (gr_text "Macroboard v1.1" (at 90.424 155.448) (layer "F.SilkS") (tstamp 0a7e70d2-f078-4fa8-b532-e6c8c7f0945d)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
   (gr_text "Krzysztof Sikora\nKacper Filipek" (at 81.026 158.496) (layer "F.SilkS") (tstamp 25184df0-4c58-4e0f-abd3-160393738f48)
