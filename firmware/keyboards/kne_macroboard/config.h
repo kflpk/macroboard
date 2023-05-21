@@ -1,7 +1,4 @@
-// Copyright 2023 Kacper Filipek (@Yoshua-chan)
-// SPDX-License-Identifier: GPL-2.0-or-later
-
-#pragma once
+// This file was adapted from ck4x4 keyboard from qmk_firmware github repository
 
 /*
  * Feature disable options
