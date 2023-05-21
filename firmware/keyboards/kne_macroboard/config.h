@@ -1,22 +1,8 @@
 // This file was adapted from ck4x4 keyboard from qmk_firmware github repository
 
 /*
- * Feature disable options
- *  These options are also useful to firmware size reduction.
- */
-
-/* disable debug print */
-//#define NO_DEBUG
-
-/* disable print */
-//#define NO_PRINT
-
-/* disable action features */
-//#define NO_ACTION_LAYER
-//#define NO_ACTION_TAPPING
-//#define NO_ACTION_ONESHOT
-/*
 Copyright 2015 Jun Wako <wakojun@gmail.com>
+Copyright 2023 Kacper Filipek <filipek.kacper@gmail.com>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
